@@ -48,7 +48,7 @@ Bank Application is a Java Spring Boot application that simulates basic banking 
 - **Retrieve Account Statements:** Fetch account statements using relevant APIs.
 - **Test the application:**  Test it using JUnit or Mockito test classes
 
-# -------------------------------------------------------------
+
 
 # Microservice_Bank_App_Project_Bipul
 
@@ -87,4 +87,7 @@ Bank Application is a Java Spring Boot application that simulates basic banking 
 - **Access through your Browser:** Visit `http://localhost:8082/` to interact with the application through UI Pages.
 - **Foloow thw workflow** Register > Login > Customer CRUD operations > Account CRUD operations > Deposit > Withdraw > Fund Transfer > Transaction CRUD Operations
 
-#---------------------------------------------------------------
+
+
+
+
