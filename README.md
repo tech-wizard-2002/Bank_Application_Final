@@ -85,7 +85,7 @@ Bank Application is a Java Spring Boot application that simulates basic banking 
 ## Usage
 
 - **Access through your Browser:** Visit `http://localhost:8082/` to interact with the application through UI Pages.
-- **Follow the workflow:** Check `Workflow Images` folder Register > Login > Customer CRUD operations > Account CRUD operations > Deposit > Withdraw > Fund Transfer > Transaction CRUD Operations
+- **Follow the workflow:** Check `Workflow Images` folder---- Register > Login > Customer CRUD operations > Account CRUD operations > Deposit > Withdraw > Fund Transfer > Transaction CRUD Operations
 
 
 
