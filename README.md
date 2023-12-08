@@ -75,8 +75,6 @@ Bank Application is a Java Spring Boot application that simulates basic banking 
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - DSL Grammar
-- Validations
-- Exceptions
 - JSP
 - JSTL
 
